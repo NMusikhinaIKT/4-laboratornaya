@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Цифровые устройства и МП\микропроцессоры 4 лаба\Project4a\Header.h(7,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project4a.vcxproj -> E:\Цифровые устройства и МП\микропроцессоры 4 лаба\Project4a\Debug\Project4a.exe
